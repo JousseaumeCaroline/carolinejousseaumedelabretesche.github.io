@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
+
+
+body {
+	background-color: #fffffd;
+	font-size: 10px;
+	line-height: 1.6;
+	font-weight: lighter;
+	text-align: center;
+}
+
+
+h1 {
+	font-family: 'Yeseva One', serif;
+	color: dark;
+	text-align: center;
+}
+
+h2{
+	text-align: justify;
+}
+
+h3{
+	font-size: 9px;
+	font-family: 'Yeseva One', serif;
+	color: dark;
+	text-align: justify;
+}
+
+button{
+	text-align: center;
+	font-size: 15px;
+	width: 100px;
+	background-color: #fdf5ef;
+
+}
+
+p{
+	font-family: 'Yeseva One', serif;
+}
+
+img {
+	width: 150px;
+	border-radius: 50%;
+	margin: center;
+}
+
+div{
+	width: 400px;
+	height: 350px;
+	border: 2px solid black;
+	margin: 25px auto;
+	border-radius: 2px;
+	padding: 10px 20px;
+	text-align: center;
+	border-top: 1px solid #eee7e0;
+	border-right: #eee7e0;
+	border-bottom: #eee7e0;
+	border-left: #eee7e0;
+	border-radius: 150xp;
+	background-color: #eee7e0;
+	box-shadow: 10px 20px 30px #a6a6a6;
+
+}
+
+
+#EDUCATION {
+	width: 400px;
+	height: 200px;
+	border: 2px solid black;
+	margin: 25px auto;
+	border-radius: 2px;
+	padding: 10px 20px;
+	text-align: justify;
+	border-top: 1px solid #eee7e0;
+	border-right: #eee7e0;
+	border-bottom: #eee7e0;
+	border-left: #eee7e0;
+	border-radius: 150xp;
+	background-color: #eee7e0;
+	box-shadow: 10px 20px 30px #a6a6a6;
+
+}
+
+#KITTEN{
+	width: 400px;
+	height: 170px;
+	border: 2px solid black;
+	margin: 25px auto;
+	border-radius: 2px;
+	padding: 10px 20px;
+	text-align: justify;
+	border-top: 1px solid #eee7e0;
+	border-right: #eee7e0;
+	border-bottom: #eee7e0;
+	border-left: #eee7e0;
+	background-color: #eee7e0;
+	box-shadow: 10px 20px 30px #a6a6a6;
+}
+
